@@ -1,0 +1,17 @@
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Infrastructure\bin\Debug\net10.0\CampusMarketplace.Infrastructure.deps.json
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Infrastructure\bin\Debug\net10.0\CampusMarketplace.Infrastructure.runtimeconfig.json
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Infrastructure\bin\Debug\net10.0\CampusMarketplace.Infrastructure.dll
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Infrastructure\bin\Debug\net10.0\CampusMarketplace.Infrastructure.pdb
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Infrastructure\bin\Debug\net10.0\CampusMarketplace.Core.dll
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Infrastructure\bin\Debug\net10.0\CampusMarketplace.Core.pdb
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Infrastructure\obj\Debug\net10.0\CampusMarketplace.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Infrastructure\obj\Debug\net10.0\CampusMarketplace.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Infrastructure\obj\Debug\net10.0\CampusMarketplace.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Infrastructure\obj\Debug\net10.0\CampusMarketplace.Infrastructure.AssemblyInfo.cs
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Infrastructure\obj\Debug\net10.0\CampusMarketplace.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Infrastructure\obj\Debug\net10.0\CampusMa.8C9265B2.Up2Date
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Infrastructure\obj\Debug\net10.0\CampusMarketplace.Infrastructure.dll
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Infrastructure\obj\Debug\net10.0\refint\CampusMarketplace.Infrastructure.dll
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Infrastructure\obj\Debug\net10.0\CampusMarketplace.Infrastructure.pdb
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Infrastructure\obj\Debug\net10.0\CampusMarketplace.Infrastructure.genruntimeconfig.cache
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Infrastructure\obj\Debug\net10.0\ref\CampusMarketplace.Infrastructure.dll

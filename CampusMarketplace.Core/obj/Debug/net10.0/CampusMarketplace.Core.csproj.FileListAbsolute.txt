@@ -1,0 +1,11 @@
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Core\bin\Debug\net10.0\CampusMarketplace.Core.deps.json
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Core\bin\Debug\net10.0\CampusMarketplace.Core.dll
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Core\bin\Debug\net10.0\CampusMarketplace.Core.pdb
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Core\obj\Debug\net10.0\CampusMarketplace.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Core\obj\Debug\net10.0\CampusMarketplace.Core.AssemblyInfoInputs.cache
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Core\obj\Debug\net10.0\CampusMarketplace.Core.AssemblyInfo.cs
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Core\obj\Debug\net10.0\CampusMarketplace.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Core\obj\Debug\net10.0\CampusMarketplace.Core.dll
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Core\obj\Debug\net10.0\refint\CampusMarketplace.Core.dll
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Core\obj\Debug\net10.0\CampusMarketplace.Core.pdb
+C:\Users\User\.gemini\antigravity\scratch\CampusMarketplace\CampusMarketplace.Core\obj\Debug\net10.0\ref\CampusMarketplace.Core.dll
